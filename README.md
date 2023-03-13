@@ -13,3 +13,4 @@
   *  Create a function to end the game when all questions have been answered.
   *  Use local storage to save the user's score and display it on the final screen.
  
+// check out this link for my site -> https://binaryshadequizzapp.netlify.app/
